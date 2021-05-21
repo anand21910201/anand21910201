@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anand21910201
+- 👋 Hi, I’m Anand Mahajan
 - 👀 I’m interested in Cyber Security, Ethical Hacking, Penetration Testing, Vulnerability Assessment
 - 🌱 I’m currently learning Network Hacking and VAPT
 - 📫 Reach me @ anand.21910201@viit.ac.in
